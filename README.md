@@ -28,6 +28,6 @@ Sure m8
 
 [Oxygen U](https://oxygenu.xyz/)
 
-[Krnl](krnl.place)
+[Krnl](https://krnl.place/)
 
 [Synapse](https://x.synapse.to/) (You have to pay for it)
