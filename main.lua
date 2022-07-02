@@ -1,6 +1,8 @@
+-- BASEPLATE GAME SCRIPT
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Nesus Hub", "Ocean")
-   
+
+    -- MAIN
     local Main = Window:NewTab("Main")
     local MainSection = Main:NewSection("Main")
 
@@ -10,7 +12,7 @@ local Window = Library.CreateLib("Nesus Hub", "Ocean")
     end)
     
     MainSection:NewButton("ESP", "See everyone", function()
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))()))()
+        loadstring(game:HttpGet('https://pastebin.com/raw/vg5UvMzB'))()
     end)
 
     MainSection:NewToggle("Super-Human", "go fast and jump high, might not work in some games", function(state)
@@ -24,10 +26,11 @@ local Window = Library.CreateLib("Nesus Hub", "Ocean")
     end)
 
     MainSection:NewButton("Infinite Yield", "FE Admin Commands", function()
-        loadstring(game:HttpGet(('https://pastebin.com/raw/CDa9XgCN'),true))()
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
     end)
 
 
+    --LOCAL PLAYER
     local Player = Window:NewTab("Player")
     local PlayerSection = Player:NewSection("Player")
 
@@ -45,7 +48,7 @@ local Window = Library.CreateLib("Nesus Hub", "Ocean")
     end)
 
 
-    
+    --Other
     local Other = Window:NewTab("Other")
     local OtherSection = Other:NewSection("Other")
 
