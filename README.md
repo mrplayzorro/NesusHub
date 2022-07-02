@@ -10,6 +10,6 @@ For any bugs report them in the server and I will try to fix.
 
 Loadstring changed, check the new in the "loadstring" thing.
 
-#Is it safe
+# Is it safe
 
 Well no shit it is, it's even source 💀
