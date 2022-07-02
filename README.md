@@ -35,3 +35,15 @@ Sure m8
 # Wtf is nexus hub and why tf would I use it
 
 Im glad you asked, Nexus Hub is an Hub (obv) for arsenal and Counter blox. Im planning to make it universal soon. After you inject you get this cool gui, you go to ESP and Silent aim and you are much better
+
+# Patch Note
+
+Patch note Version 1.4:
+
+Fixed general lag;
+
+Fixed loadstring problems;
+
+Fixed obfuscation problems;
+
+Trying to make a Server Hop that works only 4 arsenal
