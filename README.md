@@ -48,4 +48,4 @@ Fixed obfuscation problems;
 
 Trying to make a Server Hop that works only 4 arsenal
 
-*"Cheathing is not for pussies, it's for culture mans"*
+*"Cheathing is like an apple, it's always good. #CheatingIsArt"*
