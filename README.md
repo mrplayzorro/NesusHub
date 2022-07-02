@@ -36,7 +36,7 @@ Sure m8
 
 Im glad you asked, Nexus Hub is an Hub (obv) for arsenal and Counter blox. Im planning to make it universal soon. After you inject you get this cool gui, you go to ESP and Silent aim and you are much better
 
-# Patch Note
+# Patch Note N1
 
 Patch note Version 1.4:
 
@@ -49,3 +49,21 @@ Fixed obfuscation problems;
 Trying to make a Server Hop that works only 4 arsenal
 
 *"Cheathing is like an apple, it's always good. #CheatingIsArt"*
+
+# Patch Note N2
+
+Patch Note version V 1.1.4
+
+Added General version 4 less lag;
+
+More bug fixes;
+
+Added a whitelist and blacklist
+
+# WhatToDoList
+
+1. Adding a server hop (universal)
+
+2. Adding a bunny hop
+
+3. Making a speed that works for arsenal too
