@@ -1,6 +1,6 @@
 # NesusHub
 
-Fixed lag, silent aim working! More features, walkspeed wont work in some games.
+Fixed lag, silent aim working! More features, walkspeed wont work in some games. Added server hop, only works in arsenal tho.
 
 Help is always accepted!
 
