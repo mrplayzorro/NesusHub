@@ -10,7 +10,7 @@ local Window = Library.CreateLib("Nesus Hub", "Ocean")
     end)
     
     MainSection:NewButton("ESP", "See everyone", function()
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))()'))()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))()))()
     end)
 
     MainSection:NewToggle("Super-Human", "go fast and jump high, might not work in some games", function(state)
@@ -24,7 +24,7 @@ local Window = Library.CreateLib("Nesus Hub", "Ocean")
     end)
 
     MainSection:NewButton("Infinite Yield", "FE Admin Commands", function()
-        loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+        loadstring(game:HttpGet(('https://pastebin.com/raw/CDa9XgCN'),true))()
     end)
 
 
