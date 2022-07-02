@@ -10,6 +10,10 @@ For any bugs report them in the server and I will try to fix.
 
 Loadstring changed, check the new in the "loadstring" thing.
 
+# Credits
+
+Thanks for the help from Em4a for obfuscating, blacklist, whitelist, private, check for placeid and testing 🖤
+
 # Is it safe
 
 Well no shit it is
