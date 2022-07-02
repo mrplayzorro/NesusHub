@@ -1,6 +1,6 @@
 # NesusHub
 
-Fixed lag, silent aim should work more features walkspeed wont work in some games.
+Fixed lag, silent aim working! More features, walkspeed wont work in some games.
 
 Help is always accepted!
 
