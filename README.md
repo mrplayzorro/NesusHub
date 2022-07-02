@@ -47,3 +47,5 @@ Fixed loadstring problems;
 Fixed obfuscation problems;
 
 Trying to make a Server Hop that works only 4 arsenal
+
+*"Cheathing is not for pussies, it's for culture mans"*
