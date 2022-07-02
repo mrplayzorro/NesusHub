@@ -12,7 +12,7 @@ Loadstring changed, check the new in the "loadstring" thing.
 
 # Is it safe
 
-Well no shit it is, it's even source 💀
+Well no shit it is
 
 # Usage
 
