@@ -1,8 +1,6 @@
--- BASEPLATE GAME SCRIPT
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Nesus Hub", "Ocean")
-
-    -- MAIN
+   
     local Main = Window:NewTab("Main")
     local MainSection = Main:NewSection("Main")
 
@@ -30,7 +28,6 @@ local Window = Library.CreateLib("Nesus Hub", "Ocean")
     end)
 
 
-    --LOCAL PLAYER
     local Player = Window:NewTab("Player")
     local PlayerSection = Player:NewSection("Player")
 
@@ -48,7 +45,7 @@ local Window = Library.CreateLib("Nesus Hub", "Ocean")
     end)
 
 
-    --Other
+    
     local Other = Window:NewTab("Other")
     local OtherSection = Other:NewSection("Other")
 
