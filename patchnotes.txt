@@ -1,1 +1,1 @@
-
+Hello! The loadstring WONT work,I don't know why, probably a ROBLOX problem. please use the obfuscated version so you wont crash, thank you.
